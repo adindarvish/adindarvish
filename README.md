@@ -94,25 +94,6 @@ I specialize in building **resilient, automated, and scalable infrastructures** 
 
 ---
 
-# 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adindarvish&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adindarvish&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adindarvish&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=adindarvish&theme=darkhub)
-
----
-
-# 📈 Activity Graph:
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adindarvish&theme=tokyo-night)
-
----
 
 # 🚀 Focus Areas:
 
@@ -125,21 +106,9 @@ I specialize in building **resilient, automated, and scalable infrastructures** 
 
 ---
 
-# 🧠 Philosophy:
-
-> “Infrastructure should be invisible when it works — and unforgettable when it fails.”
-
-- Secure by design  
-- Scalable by default  
-- Vendor-agnostic thinking  
-- Built for real-world load  
-
----
-
 # ☕ Personal Side:
 
 - ☕ Coffee-powered engineer  
-- 🧪 Always running lab environments (Proxmox, MikroTik, Cisco)  
+- 🧪 Always running lab environments (VMware, MikroTik, Cisco)  
 - 🌐 Obsessed with clean architecture  
 - ⚙️ Automating everything possible  
-- 🔥 Break → Fix → Improve loop  
