@@ -25,7 +25,14 @@ I specialize in building **resilient, automated, and scalable systems** designed
 ---
 
 # 🌐 Socials:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adin.darvish1)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/AdinDarvish)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/989101227880)
 
 ---
 
