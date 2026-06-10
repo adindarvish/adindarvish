@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ✨ Network & Cloud Architect  
 🌐 CCNA • CCNP • CCIE  
 ☁️ Azure • VMware • Proxmox  
