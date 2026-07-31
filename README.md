@@ -1,208 +1,146 @@
-<div align="center">
+# Adin Darvish
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d4ff&height=300&section=header&text=Adin%20Darvish&fontSize=70&fontAlignY=35&desc=Network%20%26%20Infrastructure%20Architect%20%7C%20CCIE%20%C2%B7%20CCNP%20%C2%B7%20CCNA%20%7C%20Apple%20Specialist&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
+**Enterprise Networks · Hybrid Cloud · Security · Automation**
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Enterprise+Routing+%26+Multi-Vendor+Firewalls;Cisco+%C2%B7+FortiGate+%C2%B7+Palo+Alto+%C2%B7+pfSense+%C2%B7+OPNsense;VMware+ESXi%2FvSphere+%2B+Proxmox+Virtualization;Voice%2FPBX+Engineering+%3A+Issabel+%C2%B7+Panasonic+KX-NS700;Apple+Fleet+Management+%3A+Jamf+%2B+MDM;Building+Self-Hosted+AI+%26+Homelab+Infrastructure" alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adin-darvish-929b76415/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AdinDarvish)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adin.darvish1)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/989101227880)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adindarvish)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adin.darvish1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adin-darvish-929b76415/)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/AdinDarvish)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/989101227880)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
 ## `$ whoami`
 
-Network & Infrastructure Architect who lives at the intersection of **enterprise routing, multi-vendor security, and virtualization** — and then goes home to run an even more elaborate homelab for fun. Certified across the full Cisco stack (**CCIE → CCNP → CCNA**) plus an **Apple Specialist** credential, I design infrastructure that's built to be boring in production and interesting on the whiteboard.
+Network & Cloud Architect with deep expertise in enterprise networking, hybrid cloud, and multi-vendor security. I design infrastructure that's resilient by architecture — not by accident.
 
-By day: datacenter fabrics, firewall policy, and voice engineering. By night: Proxmox clusters, self-hosted AI stacks, and a Minecraft network with more backend than most SaaS products.
+Certified across the full Cisco stack (CCNA → CCNP → CCIE) and fluent in the tools that run modern enterprises: Fortinet, Palo Alto, CheckPoint, VMware NSX, Proxmox, Azure, AWS, and more.
 
-> *"If it's not resilient by architecture, it's a liability by accident."*
+> *"Infrastructure should be boring in production and fascinating on the whiteboard."*
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
-## 🛠️ Domain Mastery & Technical Ecosystem
+## 🧠 What I Actually Do
 
-<table>
-<tr>
-<td valign="top" width="33%">
+| Domain | What it looks like in practice |
+|---|---|
+| **Enterprise Networking** | BGP/OSPF/MPLS design, datacenter fabrics, multi-vendor switching/routing |
+| **Cloud Architecture** | Azure & AWS hybrid connectivity, VPN/ExpressRoute/Direct Connect, landing zones |
+| **Network Security** | NGFW policy design, zero-trust segmentation, threat detection pipelines |
+| **SD-WAN & WAN** | Versa, Meraki, policy-based routing, WAN optimization |
+| **Virtualization** | VMware vSphere + NSX-T, Proxmox clusters, network function virtualization |
+| **VoIP & UC** | SIP trunking, call routing, unified communications engineering |
+| **Automation** | Ansible playbooks, Bash scripting, CI/CD for network configs |
 
-**🌐 Enterprise Networking**
+---
 
-<img src="https://skillicons.dev/icons?i=cisco,mikrotik&perline=4"/>
-
-`BGP` `OSPF` `MPLS` `EtherChannel/LACP`
-`Nexus vPC` `Catalyst` `EoIP` `VLAN/ACL Design`
-
-</td>
-<td valign="top" width="33%">
-
-**🛡️ Security & Firewalls**
-
-<img src="https://skillicons.dev/icons?i=&perline=4"/>
-
-`FortiGate` `Palo Alto` `pfSense`
-`OPNsense` `Zero-Trust Segmentation`
-
-</td>
-<td valign="top" width="33%">
-
-**☁️ Virtualization & Cloud**
-
-<img src="https://skillicons.dev/icons?i=vmware,proxmox,docker,kubernetes&perline=4"/>
-
-`ESXi / vSphere` `vCenter` `Proxmox`
-`ZFS/RAID` `Storage vMotion`
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-**📞 Voice & Unified Comms**
-
-<img src="https://skillicons.dev/icons?i=&perline=4"/>
-
-`Issabel` `Panasonic KX-NS700`
-`SIP Trunking` `Call Routing`
-
-</td>
-<td valign="top" width="33%">
-
-**🍎 Apple Fleet & Dev**
-
-<img src="https://skillicons.dev/icons?i=apple,swift,xcode&perline=4"/>
-
-`Jamf` `MDM` `SwiftUI`
-`Liquid Glass Design` `iOS/macOS`
-
-</td>
-<td valign="top" width="33%">
-
-**🗄️ Databases & Data**
-
-<img src="https://skillicons.dev/icons?i=oracle,mysql,sqlite&perline=4"/>
-
-`Oracle` `FileMaker` `SQLite`
-`Flask` `Python`
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-**🖥️ Linux & Ricing**
-
-<img src="https://skillicons.dev/icons?i=archlinux,linux,bash&perline=4"/>
-
-`Hyprland` `Catppuccin` `Caelestia Shell`
-`Arch` `EndeavourOS` `Kali`
-
-</td>
-<td valign="top" width="33%">
-
-**🤖 Self-Hosted AI**
-
-<img src="https://skillicons.dev/icons?i=python,nodejs&perline=4"/>
-
-`Ollama` `Open WebUI` `LobeChat`
-`AnythingLLM` `Qdrant` `FastAPI`
-
-</td>
-<td valign="top" width="33%">
-
-**🌐 Web & Infra Tools**
-
-<img src="https://skillicons.dev/icons?i=nginx,git,github,html,css,js&perline=6"/>
-
-`NPMplus` `Technitium DNS`
-`Cloudflare DNS-01` `Socket.IO` `WebRTC`
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-## 🎓 Certifications
-
-<div align="center">
-
-[![CCIE](https://img.shields.io/badge/Cisco-CCIE-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/adindarvish)
-[![CCNP](https://img.shields.io/badge/Cisco-CCNP-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/adindarvish)
-[![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/adindarvish)
-[![Apple Specialist](https://img.shields.io/badge/Apple-Specialist-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/adindarvish)
+## 🏅 Certifications
 
 ```
-Cisco CCIE   ████████████████████  Expert
-Cisco CCNP   ████████████████████  Professional
-Cisco CCNA   ████████████████████  Associate
-Apple        ████████████████████  Specialist
+Cisco CCIE  ████████████████████  Expert
+Cisco CCNP  ████████████████████  Professional
+Cisco CCNA  ████████████████████  Associate
 ```
 
-</div>
+*(Additional vendor certs across Fortinet, Azure, AWS)*
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
-## 🚀 Featured Systems & Builds
+## ☁️ Cloud & Infrastructure
 
-| Project | Focus | Stack |
-|---|---|---|
-| **[AdinCell](https://github.com/adindarvish/AdinCell)** | Virtual ISP — carrier-agnostic SIM/data control from a custom app | `Swift` |
-| **[NetworkToolkit](https://github.com/adindarvish/NetworkToolkit)** | macOS network diagnostics — ARP, ping, and infra testing tools | `Swift` |
-| **Zelaris Network** | Multi-server Minecraft network — premium UI, custom plugin suite (Lexora), leaderboard/economy systems | `Java` `MiniMessage` `EXILED` |
-| **Self-Hosted Web Messenger** | Real-time messenger with voice/video calls and PWA support | `Node.js` `Socket.IO` `WebRTC` `SQLite` |
-| **Infra Monitoring Dashboard** | Unified monitoring across ESXi, Nexus, Catalyst, FortiGate, MikroTik, and Windows Server | `Python` `Flask` `SQLite` |
-| **Jarvis AI Stack** | Self-hosted assistant architecture — local LLM + speech + vector search | `Ollama` `FastAPI` `Qdrant` `Docker` |
-| **Nova** | iOS/macOS app exploring Apple's Liquid Glass design language | `SwiftUI` |
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-Virtualization-607078?style=for-the-badge)
+![Proxmox](https://img.shields.io/badge/Proxmox-VE-orange?style=for-the-badge)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+## 🖥️ Virtualization & DevOps
 
-## 🔬 Current Lab Topology
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![VMware NSX](https://img.shields.io/badge/VMware_NSX-Network_Virtualization-607078?style=for-the-badge)
 
-Always-on homelab running on an **HPE DL380 Gen10 Plus**:
+## 🌐 Networking & Security
 
-- **VMware ESXi / vSphere** — multi-VM topology, coredump targets, persistent syslog, vCenter Storage vMotion
-- **Proxmox cluster** — ZFS/RAID storage, self-hosted AI stack (Ollama + Open WebUI + Qdrant)
-- **Cisco Nexus 3064-PQ vPC pair + N540X** — nine-VLAN enterprise topology with full ACL policy
-- **MikroTik RouterOS** — NAT/hairpin cleanup, EoIP tunneling, mangle/routing-mark rules
-- **NPMplus + Technitium DNS + Cloudflare DNS-01** — internal HTTPS reverse proxy
+![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![MikroTik](https://img.shields.io/badge/MikroTik-%232C3E50.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Juniper Networks](https://img.shields.io/badge/Juniper-%230A0F2C.svg?style=for-the-badge&logo=juniper-networks&logoColor=white)
+![Arista Networks](https://img.shields.io/badge/Arista-%23000B1D.svg?style=for-the-badge)
+![Huawei](https://img.shields.io/badge/Huawei-%23CF0A2C.svg?style=for-the-badge&logo=huawei&logoColor=white)
+![HPE Aruba](https://img.shields.io/badge/Aruba-%23006666.svg?style=for-the-badge&logo=hp&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-%2300A0DC.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-Security-red?style=for-the-badge)
+![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-%23F04E23.svg?style=for-the-badge)
+![Check Point](https://img.shields.io/badge/Check_Point-Firewall-blue?style=for-the-badge)
+![Sophos](https://img.shields.io/badge/Sophos-Security-blue?style=for-the-badge)
+![Cisco Meraki](https://img.shields.io/badge/Meraki-Cloud_Networking-blue?style=for-the-badge)
+![Versa Networks](https://img.shields.io/badge/Versa-SD_WAN-black?style=for-the-badge)
+![Extreme Networks](https://img.shields.io/badge/Extreme_Networks-purple?style=for-the-badge)
+![Nokia](https://img.shields.io/badge/Nokia_Service_Provider-blue?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-> If it's not documented in a diagram, it doesn't exist.
+## ⚙️ Automation & Systems
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+![Linux](https://img.shields.io/badge/Linux-Server-FCC624?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-## 📊 GitHub Analytics
+## 🗄️ Databases
 
-<div align="center">
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-<img src="https://github-readme-stats.vercel.app/api?username=adindarvish&theme=nord_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adindarvish&theme=nord_dark&hide_border=true&layout=compact" width="38%"/>
+---
 
-<img src="https://streak-stats.demolab.com/?user=adindarvish&theme=nord-dark&hide_border=true" width="60%"/>
+## 🔬 Current Lab Setup
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adindarvish&theme=react-dark&hide_border=true" width="90%"/>
+Always running experiments. Current topology includes:
 
-</div>
+- **VMware vSphere + NSX-T** — overlay network simulation with micro-segmentation
+- **MikroTik + Cisco** — BGP/OSPF multi-AS lab for routing protocol deep-dives
+- **Proxmox cluster** — spinning up VMs for firewall testing (Fortinet, pfSense, OPNsense)
+- **Ansible + Jenkins** — automated config push pipeline for network devices
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+> If it can be automated, it will be automated.
+
+---
+
+## 📂 What You'll Find Here
+
+```
+📁 repos/
+├── 🌐 network-automation/     # Ansible playbooks for multi-vendor environments
+├── ☁️  cloud-labs/            # Azure & AWS architecture templates & IaC
+├── 🛡️  security-configs/      # Firewall policy frameworks & hardening guides
+├── 📡  sd-wan-labs/           # SD-WAN design patterns and testing notes
+└── 📚  study-notes/           # CCIE lab prep, vendor deep-dives
+```
+
+*(Repos coming soon / in progress — watch this space)*
+
+---
+
+
 
 ## ☕ Off the Clock
 
-- Ricing Linux (Hyprland + Catppuccin + Caelestia Shell) until every pixel is intentional
-- Restoring retro hardware — Nokia Lumia, Mac mini 2014, iPhone 5s
-- Deep in Roman history and Persian/Iranian cultural & business projects
-- Coffee, Modern Talking, and infrastructure diagrams that are *too* clean
+- Fuelled by coffee, broken by misconfigured BGP at 2am
+- Obsessed with clean, documented architecture — if it's not in the diagram, it doesn't exist
+- Building and breaking lab environments is how I unwind
+- Strong believer that the best network is the one nobody notices
+
+---
 
 <div align="center">
 
-*"Infrastructure should be boring in production and fascinating on the whiteboard."*
+**Open to consulting, architecture reviews, and interesting infrastructure problems.**
 
-**Adin Darvish** — Network & Infrastructure Architect
+*Let's build something that scales.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0f2027&height=120&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
 
 </div>
