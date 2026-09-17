@@ -2,10 +2,14 @@
 
 # Adin Darvish
 
-**Enterprise Networks · Hybrid Cloud · Security · VoIP & Surveillance · Apple Infrastructure**
+### Enterprise Networks · Hybrid Cloud · Security · Backup & DR · VoIP & Surveillance · Apple Infrastructure
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A9FF&center=true&vCenter=true&width=650&lines=Designing+resilient+enterprise+networks;Architecting+hybrid+cloud+%26+DR+strategies;Automating+everything+that+can+be+automated;BGP+%7C+OSPF+%7C+MPLS+%7C+Zero+Trust+%7C+Proxmox" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adin-darvish-929b76415/)
 [![Discord](https://img.shields.io/badge/Discord-adindarvish-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/adindarvish)
+
+![Profile Views](https://komarev.com/ghpvc/?username=adindarvish&color=00A9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -13,11 +17,11 @@
 
 ## `$ whoami`
 
-Network & Cloud Architect with deep expertise in enterprise networking, hybrid cloud, and multi-vendor security. I design infrastructure that's resilient by architecture — not by accident.
+Network & Cloud Architect with deep expertise in enterprise networking, hybrid cloud, multi-vendor security, and business continuity / disaster recovery design. I design infrastructure that's resilient by architecture — not by accident.
 
-Certified across the full Cisco stack (CCNA → CCNP → CCIE) and an **Apple Certified Specialist**, with hands-on depth in VoIP/PBX systems, CCTV/surveillance, and self-hosted AI infrastructure.
+Certified across the full Cisco stack (CCNA → CCNP → CCIE) and an **Apple Certified Specialist**, with hands-on depth in backup & DR engineering, VoIP/PBX systems, CCTV/surveillance, and self-hosted AI infrastructure.
 
-> *"Infrastructure should be boring in production and fascinating on the whiteboard."*
+> *"Infrastructure should be boring in production and fascinating on the whiteboard. Backups should be boring everywhere."*
 
 ---
 
@@ -25,16 +29,19 @@ Certified across the full Cisco stack (CCNA → CCNP → CCIE) and an **Apple Ce
 
 | Domain | What it looks like in practice |
 |---|---|
-| **Enterprise Networking** | BGP/OSPF/MPLS design, datacenter fabrics, multi-vendor switching/routing |
-| **Cloud Architecture** | Azure & AWS hybrid connectivity, VPN/ExpressRoute/Direct Connect, landing zones |
-| **Network Security** | NGFW policy design, zero-trust segmentation, threat detection pipelines |
+| **Enterprise Networking** | BGP/OSPF/MPLS/EVPN-VXLAN design, datacenter fabrics, multi-vendor switching/routing |
+| **Cloud Architecture** | Azure & AWS hybrid connectivity, VPN/ExpressRoute/Direct Connect, landing zones, IaC |
+| **Network Security** | NGFW policy design, zero-trust segmentation, NAC, IDS/IPS, threat detection pipelines |
+| **Backup & Disaster Recovery** | 3-2-1-1-0 strategy design, RTO/RPO planning, replication, immutable backups, DR runbooks |
+| **Server & Systems Engineering** | Windows/Linux server builds, clustering, patch management, capacity planning |
 | **VoIP & UC** | SIP trunking, PBX deployment, call routing engineering |
 | **CCTV & Surveillance** | NVR/VMS design, camera fleet deployment, ONVIF integration |
 | **Apple Infrastructure** | MDM/Jamf fleet management, macOS/iOS deployment, Apple Business Manager |
-| **Virtualization** | VMware vSphere + NSX-T, Proxmox clusters, NAS/storage design |
+| **Virtualization** | VMware vSphere + NSX-T, Proxmox VE/PBS clusters, NAS/storage design |
+| **Monitoring & Observability** | Metrics, log aggregation, alerting, uptime & SLA tracking |
 | **Home Media / IPTV** | Plex, Jellyfin, Emby, FFmpeg ABR streaming pipelines |
 | **AI Self-Hosting** | Local LLM stacks, GPU compute, vector databases |
-| **Automation** | Ansible, Bash, Python, CI/CD for network configs |
+| **Automation** | Ansible, Terraform, Bash, Python, CI/CD for network & infra configs |
 
 ---
 
@@ -48,6 +55,47 @@ Apple Certified Specialist  █████████████████�
 ```
 
 ---
+
+<details open>
+<summary><h2>💽 Backup, Disaster Recovery & Business Continuity</h2></summary>
+
+**Backup Platforms**
+![Veeam Backup & Replication](https://img.shields.io/badge/Veeam_Backup_%26_Replication-00B336?style=flat-square&logo=veeam&logoColor=white)
+![Veeam ONE](https://img.shields.io/badge/Veeam_ONE-00B336?style=flat-square&logo=veeam&logoColor=white)
+![Veeam Backup for M365](https://img.shields.io/badge/Veeam_for_M365-00B336?style=flat-square&logo=veeam&logoColor=white)
+![Proxmox Backup Server](https://img.shields.io/badge/Proxmox_Backup_Server-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Nakivo](https://img.shields.io/badge/NAKIVO-1470C3?style=flat-square)
+![Acronis Cyber Protect](https://img.shields.io/badge/Acronis_Cyber_Protect-CF0A2C?style=flat-square&logo=acronis&logoColor=white)
+![Veritas NetBackup](https://img.shields.io/badge/Veritas_NetBackup-B41716?style=flat-square&logo=veritas&logoColor=white)
+![Veritas Backup Exec](https://img.shields.io/badge/Backup_Exec-B41716?style=flat-square&logo=veritas&logoColor=white)
+![Commvault](https://img.shields.io/badge/Commvault-E31937?style=flat-square&logo=commvault&logoColor=white)
+![Dell EMC Avamar](https://img.shields.io/badge/Dell_EMC_Avamar-007DB8?style=flat-square&logo=dell&logoColor=white)
+![Dell EMC Networker](https://img.shields.io/badge/Dell_EMC_Networker-007DB8?style=flat-square&logo=dell&logoColor=white)
+![Dell EMC Data Domain](https://img.shields.io/badge/Dell_EMC_Data_Domain-007DB8?style=flat-square&logo=dell&logoColor=white)
+![IBM Spectrum Protect](https://img.shields.io/badge/IBM_Spectrum_Protect-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![HYCU](https://img.shields.io/badge/HYCU-FF4E00?style=flat-square)
+![Rubrik](https://img.shields.io/badge/Rubrik-00A0DC?style=flat-square&logo=rubrik&logoColor=white)
+![Cohesity](https://img.shields.io/badge/Cohesity-3CC0E8?style=flat-square&logo=cohesity&logoColor=white)
+![Bacula / Bareos](https://img.shields.io/badge/Bacula_%2F_Bareos-EE7600?style=flat-square)
+![Duplicati](https://img.shields.io/badge/Duplicati-1E88E5?style=flat-square)
+![Restic](https://img.shields.io/badge/Restic-52B0E7?style=flat-square)
+![Borg Backup](https://img.shields.io/badge/BorgBackup-000000?style=flat-square)
+![rsync / rclone](https://img.shields.io/badge/rsync_%2F_rclone-262626?style=flat-square)
+![Synology Active Backup](https://img.shields.io/badge/Synology_Active_Backup-D6D6D6?style=flat-square&logo=synology&logoColor=black)
+![Datto](https://img.shields.io/badge/Datto_BCDR-1BA0E1?style=flat-square)
+![Zerto](https://img.shields.io/badge/Zerto-FF6B00?style=flat-square)
+![Azure Backup / Site Recovery](https://img.shields.io/badge/Azure_Backup_%2F_ASR-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS Backup](https://img.shields.io/badge/AWS_Backup-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+**DR / Continuity Concepts**
+![RTO/RPO Planning](https://img.shields.io/badge/RTO_%2F_RPO_Planning-0F5132?style=flat-square)
+![3-2-1-1-0 Strategy](https://img.shields.io/badge/3--2--1--1--0_Strategy-0F5132?style=flat-square)
+![Immutable Backups](https://img.shields.io/badge/Immutable_Backups_%2F_WORM-0F5132?style=flat-square)
+![Air-Gapped Repositories](https://img.shields.io/badge/Air--Gapped_Repos-0F5132?style=flat-square)
+![Site-to-Site Replication](https://img.shields.io/badge/Site--to--Site_Replication-0F5132?style=flat-square)
+![Failover / Failback Testing](https://img.shields.io/badge/Failover_%2F_Failback_Testing-0F5132?style=flat-square)
+
+</details>
 
 <details>
 <summary><h2>☁️ Cloud, Virtualization & Hardware</h2></summary>
@@ -73,6 +121,7 @@ Apple Certified Specialist  █████████████████�
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat-square&logo=terraform&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
 ![Xen](https://img.shields.io/badge/Xen-000000?style=flat-square&logo=xen&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![KVM](https://img.shields.io/badge/KVM-D71F00?style=flat-square&logo=linux&logoColor=white)
@@ -83,6 +132,29 @@ Apple Certified Specialist  █████████████████�
 ![Lenovo ThinkSystem](https://img.shields.io/badge/Lenovo_ThinkSystem-E2231A?style=flat-square&logo=lenovo&logoColor=white)
 ![ASUS Servers](https://img.shields.io/badge/ASUS_Servers-000000?style=flat-square&logo=asus&logoColor=white)
 ![Supermicro](https://img.shields.io/badge/Supermicro-000000?style=flat-square&logo=supermicro&logoColor=white)
+
+</details>
+
+<details>
+<summary><h2>🖥️ Proxmox VE Ecosystem</h2></summary>
+
+![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Proxmox Backup Server](https://img.shields.io/badge/Proxmox_Backup_Server-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Proxmox Mail Gateway](https://img.shields.io/badge/Proxmox_Mail_Gateway-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Ceph on Proxmox](https://img.shields.io/badge/Ceph_Storage-EF5C55?style=flat-square&logo=ceph&logoColor=white)
+![ZFS on Proxmox](https://img.shields.io/badge/ZFS_Storage-0074C7?style=flat-square&logo=openzfs&logoColor=white)
+![Proxmox HA Clustering](https://img.shields.io/badge/HA_Clustering-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Proxmox LXC](https://img.shields.io/badge/LXC_Containers-E57000?style=flat-square&logo=linuxcontainers&logoColor=white)
+![Proxmox VE API](https://img.shields.io/badge/Proxmox_VE_API-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![pve-zsync](https://img.shields.io/badge/pve--zsync_Replication-E57000?style=flat-square)
+![Corosync](https://img.shields.io/badge/Corosync-262626?style=flat-square)
+
+- Proxmox VE cluster design (3+ node quorum, HA groups, fencing)
+- Proxmox Backup Server deployment with deduplicated, incremental, encrypted backups
+- Storage backends: ZFS (local/replicated), Ceph (hyperconverged), NFS/iSCSI shared storage
+- Automated snapshot + PBS backup schedules with retention (GFS) policies
+- Cross-site PBS sync jobs for offsite/DR copies
+- SDN, firewall, and API-driven automation on top of Proxmox
 
 </details>
 
@@ -120,7 +192,10 @@ Apple Certified Specialist  █████████████████�
 ![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=flat-square&logo=opnsense&logoColor=white)
 ![Versa Networks](https://img.shields.io/badge/Versa_SD--WAN-1A1A1A?style=flat-square)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=flat-square&logo=haproxy&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Snort / Suricata](https://img.shields.io/badge/Snort_%2F_Suricata-EE3124?style=flat-square)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F27?style=flat-square&logo=crowdstrike&logoColor=white)
 
 **VPN & Remote Access**
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
@@ -134,6 +209,33 @@ Apple Certified Specialist  █████████████████�
 ![TeamViewer](https://img.shields.io/badge/TeamViewer-0E8EE9?style=flat-square&logo=teamviewer&logoColor=white)
 ![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B?style=flat-square&logo=anydesk&logoColor=white)
 ![Proxyman](https://img.shields.io/badge/Proxyman-F5A623?style=flat-square)
+
+</details>
+
+<details>
+<summary><h2>📊 Monitoring, Observability & IT Ops</h2></summary>
+
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![PRTG](https://img.shields.io/badge/PRTG-00A950?style=flat-square)
+![Nagios](https://img.shields.io/badge/Nagios-1A2B4C?style=flat-square&logo=nagios&logoColor=white)
+![LibreNMS](https://img.shields.io/badge/LibreNMS-000000?style=flat-square&logo=librenms&logoColor=white)
+![Checkmk](https://img.shields.io/badge/Checkmk-15D1A0?style=flat-square&logo=checkmk&logoColor=white)
+![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=flat-square&logo=uptimekuma&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![Graylog](https://img.shields.io/badge/Graylog-FF3633?style=flat-square&logo=graylog&logoColor=white)
+![Netdata](https://img.shields.io/badge/Netdata-00AB44?style=flat-square&logo=netdata&logoColor=white)
+![SolarWinds](https://img.shields.io/badge/SolarWinds-FFB71B?style=flat-square&logo=solarwinds&logoColor=black)
+![ManageEngine OpManager](https://img.shields.io/badge/ManageEngine_OpManager-3379B5?style=flat-square)
+
+**Directory, Patch & Endpoint Management**
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Azure AD / Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![WSUS](https://img.shields.io/badge/WSUS-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square&logo=microsoftintune&logoColor=white)
+![PDQ Deploy](https://img.shields.io/badge/PDQ_Deploy-FF6600?style=flat-square)
+![ManageEngine Endpoint Central](https://img.shields.io/badge/Endpoint_Central-3379B5?style=flat-square)
 
 </details>
 
@@ -411,11 +513,13 @@ Apple Certified Specialist  █████████████████�
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=flat-square&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -436,12 +540,15 @@ Apple Certified Specialist  █████████████████�
 
 - **VMware vSphere + NSX-T** — overlay network simulation with micro-segmentation
 - **MikroTik + Cisco** — BGP/OSPF multi-AS lab for routing protocol deep-dives
-- **Proxmox cluster** — firewall testing (Fortinet, pfSense, OPNsense) + self-hosted AI stack
+- **Proxmox VE cluster + Proxmox Backup Server** — HA workloads with deduplicated, encrypted, offsite-replicated backups
+- **Veeam Backup & Replication lab** — image-level backup, replication, and SureBackup-style recovery testing
+- **Firewall testing** — Fortinet, pfSense, OPNsense + self-hosted AI stack behind segmented VLANs
+- **Zabbix + Grafana** — full-stack monitoring and alerting across the lab
 - **Plex / Jellyfin + FFmpeg** — self-hosted media & IPTV restreaming pipelines
 - **Jamf + Apple fleet** — MDM policy testing across macOS/iOS device generations
 - **Custom Android ROMs** — AOSP-based builds, Magisk modules, TWRP recovery workflows
 
-> If it can be automated, it will be automated.
+> If it can be automated, it will be automated. If it can be backed up, it will be backed up — twice.
 
 ---
 
@@ -449,7 +556,7 @@ Apple Certified Specialist  █████████████████�
 
 **Open to consulting, architecture reviews, and interesting infrastructure problems.**
 
-*Let's build something that scales.*
+*Let's build something that scales — and something that comes back online when things go wrong.*
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adin-darvish-929b76415/)
 [![Discord](https://img.shields.io/badge/Discord-adindarvish-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/adindarvish)
