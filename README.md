@@ -1,21 +1,12 @@
 <div align="center">
-
-# Adin Darvish
-
-### Enterprise Networks · Hybrid Cloud · Security · Backup & DR · VoIP & Surveillance · Apple Infrastructure
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A9FF&center=true&vCenter=true&width=650&lines=Designing+resilient+enterprise+networks;Architecting+hybrid+cloud+%26+DR+strategies;Automating+everything+that+can+be+automated;BGP+%7C+OSPF+%7C+MPLS+%7C+Zero+Trust+%7C+Proxmox" alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adin-darvish-929b76415/)
-[![Discord](https://img.shields.io/badge/Discord-adindarvish-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/adindarvish)
-
-![Profile Views](https://komarev.com/ghpvc/?username=adindarvish&color=00A9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg"><img alt="Adin Darvish — Network · Cloud Architect" src="./assets/hero-light.svg" width="100%"></picture>
+<a href="https://adindarvish.ir"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/b-website-dark.svg"><img alt="Website" src="./assets/b-website-light.svg"></picture></a> <a href="https://t.me/AdinDarvish"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/b-telegram-dark.svg"><img alt="Telegram" src="./assets/b-telegram-light.svg"></picture></a> <a href="https://www.linkedin.com/in/adin-darvish-929b76415/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/b-linkedin-dark.svg"><img alt="LinkedIn" src="./assets/b-linkedin-light.svg"></picture></a> <a href="https://discord.com/users/adindarvish"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/b-discord-dark.svg"><img alt="Discord" src="./assets/b-discord-light.svg"></picture></a> <a href="https://instagram.com/adin.darvish"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/b-instagram-dark.svg"><img alt="Instagram" src="./assets/b-instagram-light.svg"></picture></a>
+<img src="https://komarev.com/ghpvc/?username=adindarvish&color=5B43D6&style=flat-square&label=PROFILE+VIEWS" alt="Profile views">
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/vendors-dark.svg"><img alt="16 vendor platforms" src="./assets/vendors-light.svg" width="100%"></picture>
 </div>
 
----
-
-## `$ whoami`
+<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-whoami-dark.svg"><img alt="$ whoami" src="./assets/t-whoami-light.svg"></picture>
 
 Network & Cloud Architect with deep expertise in enterprise networking, hybrid cloud, multi-vendor security, and business continuity / disaster recovery design. I design infrastructure that's resilient by architecture — not by accident.
 
@@ -23,41 +14,32 @@ Certified across the full Cisco stack (CCNA → CCNP → CCIE) and an **Apple Ce
 
 > *"Infrastructure should be boring in production and fascinating on the whiteboard. Backups should be boring everywhere."*
 
----
+<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-do-dark.svg"><img alt="What I actually do" src="./assets/t-do-light.svg"></picture>
 
-## 🧠 What I Actually Do
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/domains-dark.svg"><img alt="13 practice areas: networking, cloud, security, backup & DR, servers, virtualization, VoIP, CCTV, Apple, monitoring, media/IPTV, AI hosting, automation" src="./assets/domains-light.svg" width="100%"></picture>
 
-| Domain | What it looks like in practice |
-|---|---|
-| **Enterprise Networking** | BGP/OSPF/MPLS/EVPN-VXLAN design, datacenter fabrics, multi-vendor switching/routing |
-| **Cloud Architecture** | Azure & AWS hybrid connectivity, VPN/ExpressRoute/Direct Connect, landing zones, IaC |
-| **Network Security** | NGFW policy design, zero-trust segmentation, NAC, IDS/IPS, threat detection pipelines |
-| **Backup & Disaster Recovery** | 3-2-1-1-0 strategy design, RTO/RPO planning, replication, immutable backups, DR runbooks |
-| **Server & Systems Engineering** | Windows/Linux server builds, clustering, patch management, capacity planning |
-| **VoIP & UC** | SIP trunking, PBX deployment, call routing engineering |
-| **CCTV & Surveillance** | NVR/VMS design, camera fleet deployment, ONVIF integration |
-| **Apple Infrastructure** | MDM/Jamf fleet management, macOS/iOS deployment, Apple Business Manager |
-| **Virtualization** | VMware vSphere + NSX-T, Proxmox VE/PBS clusters, NAS/storage design |
-| **Monitoring & Observability** | Metrics, log aggregation, alerting, uptime & SLA tracking |
-| **Home Media / IPTV** | Plex, Jellyfin, Emby, FFmpeg ABR streaming pipelines |
-| **AI Self-Hosting** | Local LLM stacks, GPU compute, vector databases |
-| **Automation** | Ansible, Terraform, Bash, Python, CI/CD for network & infra configs |
+<br>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-certs-dark.svg"><img alt="Certifications" src="./assets/t-certs-light.svg"></picture>
 
-## 🏅 Certifications
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/certs-dark.svg"><img alt="CCNA → CCNP → CCIE + Apple Certified Specialist" src="./assets/certs-light.svg" width="100%"></picture>
 
-```
-Cisco CCIE                  ████████████████████  Expert
-Cisco CCNP                  ████████████████████  Professional
-Cisco CCNA                  ████████████████████  Associate
-Apple Certified Specialist  ████████████████████
-```
+<br>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-services-dark.svg"><img alt="Cloudtrix services" src="./assets/t-services-light.svg"></picture>
+
+<p align="center">
+<a href="https://search.cloudtrix.ir"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/svc-search-dark.svg"><img alt="Cloudtrix search" src="./assets/svc-search-light.svg" width="24%"></picture></a>
+<a href="https://tv.cloudtrix.ir/web/#/home"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/svc-tv-dark.svg"><img alt="Cloudtrix tv" src="./assets/svc-tv-light.svg" width="24%"></picture></a>
+<a href="https://drive.cloudtrix.ir"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/svc-drive-dark.svg"><img alt="Cloudtrix drive" src="./assets/svc-drive-light.svg" width="24%"></picture></a>
+<a href="https://panel.cloudtrix.ir"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/svc-panel-dark.svg"><img alt="Cloudtrix panel" src="./assets/svc-panel-light.svg" width="24%"></picture></a>
+</p>
+
+<br>
 
 <details open>
-<summary><h2>💽 Backup, Disaster Recovery & Business Continuity</h2></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-backup-dark.svg"><img alt="Backup, Disaster Recovery & Business Continuity" src="./assets/t-backup-light.svg"></picture></summary>
 
 **Backup Platforms**
 ![Veeam Backup & Replication](https://img.shields.io/badge/Veeam_Backup_%26_Replication-00B336?style=flat-square&logo=veeam&logoColor=white)
@@ -98,7 +80,7 @@ Apple Certified Specialist  █████████████████�
 </details>
 
 <details>
-<summary><h2>☁️ Cloud, Virtualization & Hardware</h2></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-cloud-dark.svg"><img alt="Cloud, Virtualization & Hardware" src="./assets/t-cloud-light.svg"></picture></summary>
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -136,7 +118,7 @@ Apple Certified Specialist  █████████████████�
 </details>
 
 <details>
-<summary><h2>🖥️ Proxmox VE Ecosystem</h2></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-proxmox-dark.svg"><img alt="Proxmox VE Ecosystem" src="./assets/t-proxmox-light.svg"></picture></summary>
 
 ![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Proxmox Backup Server](https://img.shields.io/badge/Proxmox_Backup_Server-E57000?style=flat-square&logo=proxmox&logoColor=white)
@@ -159,7 +141,7 @@ Apple Certified Specialist  █████████████████�
 </details>
 
 <details>
-<summary><h2>🌐 Networking & Security</h2></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-network-dark.svg"><img alt="Networking & Security" src="./assets/t-network-light.svg"></picture></summary>
 
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=black)
 ![Cisco Meraki](https://img.shields.io/badge/Meraki-0559C9?style=flat-square&logo=cisco&logoColor=white)
@@ -213,7 +195,7 @@ Apple Certified Specialist  █████████████████�
 </details>
 
 <details>
-<summary><h2>📊 Monitoring, Observability & IT Ops</h2></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-monitor-dark.svg"><img alt="Monitoring, Observability & IT Ops" src="./assets/t-monitor-light.svg"></picture></summary>
 
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -240,7 +222,7 @@ Apple Certified Specialist  █████████████████�
 </details>
 
 <details>
-<summary><h2>☎️ VoIP & Unified Communications</h2></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-voip-dark.svg"><img alt="VoIP & Unified Communications" src="./assets/t-voip-light.svg"></picture></summary>
 
 ![Cisco UC](https://img.shields.io/badge/Cisco_UC-049FD9?style=flat-square&logo=cisco&logoColor=white)
 ![Panasonic KX-NS](https://img.shields.io/badge/Panasonic_KX--NS-0032A0?style=flat-square&logo=panasonic&logoColor=white)
@@ -262,7 +244,7 @@ Apple Certified Specialist  █████████████████�
 </details>
 
 <details>
-<summary><h2>📷 Photography & CCTV Surveillance</h2></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-cctv-dark.svg"><img alt="Photography & CCTV Surveillance" src="./assets/t-cctv-light.svg"></picture></summary>
 
 **Cameras**
 ![Canon](https://img.shields.io/badge/Canon-BF0000?style=flat-square&logo=canon&logoColor=white)
@@ -295,7 +277,7 @@ Apple Certified Specialist  █████████████████�
 </details>
 
 <details>
-<summary><h2>🍏 Apple Ecosystem — Devices & OS (1976–Present)</h2></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-apple-dark.svg"><img alt="Apple Ecosystem — Devices & OS (1976–Present)" src="./assets/t-apple-light.svg"></picture></summary>
 
 **Mac & macOS**
 ![Apple I / II](https://img.shields.io/badge/Apple_I_%2F_II-000000?style=flat-square&logo=apple&logoColor=white)
@@ -344,7 +326,7 @@ Apple Certified Specialist  █████████████████�
 </details>
 
 <details>
-<summary><h2>📺 IPTV, Streaming & TV Brands</h2></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-iptv-dark.svg"><img alt="IPTV, Streaming & TV Brands" src="./assets/t-iptv-light.svg"></picture></summary>
 
 **Media Server Stack**
 ![Plex](https://img.shields.io/badge/Plex-EBAF00?style=flat-square&logo=plex&logoColor=white)
@@ -377,7 +359,7 @@ Apple Certified Specialist  █████████████████�
 </details>
 
 <details>
-<summary><h2>💾 NAS & Storage</h2></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-nas-dark.svg"><img alt="NAS & Storage" src="./assets/t-nas-light.svg"></picture></summary>
 
 ![Synology DSM](https://img.shields.io/badge/Synology_DSM-D6D6D6?style=flat-square&logo=synology&logoColor=black)
 ![QNAP QTS](https://img.shields.io/badge/QNAP_QTS-3771C8?style=flat-square&logo=qnap&logoColor=white)
@@ -398,7 +380,7 @@ Apple Certified Specialist  █████████████████�
 </details>
 
 <details>
-<summary><h2>🛠️ Control Panels & CMS</h2></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-panels-dark.svg"><img alt="Control Panels & CMS" src="./assets/t-panels-light.svg"></picture></summary>
 
 ![cPanel / WHM](https://img.shields.io/badge/cPanel_%2F_WHM-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
@@ -415,7 +397,7 @@ Apple Certified Specialist  █████████████████�
 </details>
 
 <details>
-<summary><h2>🤖 AI Self-Hosting, GPU & Models</h2></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-ai-dark.svg"><img alt="AI Self-Hosting, GPU & Models" src="./assets/t-ai-light.svg"></picture></summary>
 
 ![NVIDIA / CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
@@ -441,7 +423,7 @@ Apple Certified Specialist  █████████████████�
 </details>
 
 <details>
-<summary><h2>🎮 Gaming & Game Servers</h2></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-gaming-dark.svg"><img alt="Gaming & Game Servers" src="./assets/t-gaming-light.svg"></picture></summary>
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white)
 ![PaperMC](https://img.shields.io/badge/PaperMC-2F855A?style=flat-square)
@@ -458,7 +440,7 @@ Apple Certified Specialist  █████████████████�
 </details>
 
 <details>
-<summary><h2>📱 Android / ROMs & Mobile Ecosystem</h2></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-android-dark.svg"><img alt="Android / ROMs & Mobile Ecosystem" src="./assets/t-android-light.svg"></picture></summary>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![AOSP](https://img.shields.io/badge/AOSP-A4C639?style=flat-square&logo=android&logoColor=white)
@@ -477,7 +459,7 @@ Apple Certified Specialist  █████████████████�
 </details>
 
 <details>
-<summary><h2>🐧 Linux Distributions</h2></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-linux-dark.svg"><img alt="Linux Distributions" src="./assets/t-linux-light.svg"></picture></summary>
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
@@ -508,7 +490,7 @@ Apple Certified Specialist  █████████████████�
 </details>
 
 <details>
-<summary><h2>⚙️ Languages, Databases & Automation</h2></summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-lang-dark.svg"><img alt="Languages, Databases & Automation" src="./assets/t-lang-light.svg"></picture></summary>
 
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
@@ -534,31 +516,20 @@ Apple Certified Specialist  █████████████████�
 
 </details>
 
----
+<br>
 
-## 🔬 Current Lab Setup
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-lab-dark.svg"><img alt="Current lab setup" src="./assets/t-lab-light.svg"></picture>
 
-- **VMware vSphere + NSX-T** — overlay network simulation with micro-segmentation
-- **MikroTik + Cisco** — BGP/OSPF multi-AS lab for routing protocol deep-dives
-- **Proxmox VE cluster + Proxmox Backup Server** — HA workloads with deduplicated, encrypted, offsite-replicated backups
-- **Veeam Backup & Replication lab** — image-level backup, replication, and SureBackup-style recovery testing
-- **Firewall testing** — Fortinet, pfSense, OPNsense + self-hosted AI stack behind segmented VLANs
-- **Zabbix + Grafana** — full-stack monitoring and alerting across the lab
-- **Plex / Jellyfin + FFmpeg** — self-hosted media & IPTV restreaming pipelines
-- **Jamf + Apple fleet** — MDM policy testing across macOS/iOS device generations
-- **Custom Android ROMs** — AOSP-based builds, Magisk modules, TWRP recovery workflows
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/lab-dark.svg"><img alt="Lab status: 9 topologies" src="./assets/lab-light.svg" width="100%"></picture>
 
 > If it can be automated, it will be automated. If it can be backed up, it will be backed up — twice.
 
----
-
 <div align="center">
 
-**Open to consulting, architecture reviews, and interesting infrastructure problems.**
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"><img alt="CCIE · 13 practice areas · 9 lab topologies" src="./assets/stats-light.svg" width="100%"></picture>
 
-*Let's build something that scales — and something that comes back online when things go wrong.*
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contact-dark.svg"><img alt="Let's build something" src="./assets/contact-light.svg" width="100%"></picture>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adin-darvish-929b76415/)
-[![Discord](https://img.shields.io/badge/Discord-adindarvish-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/adindarvish)
+<a href="https://adindarvish.ir"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/b-website-dark.svg"><img alt="Website" src="./assets/b-website-light.svg"></picture></a> <a href="https://t.me/AdinDarvish"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/b-telegram-dark.svg"><img alt="Telegram" src="./assets/b-telegram-light.svg"></picture></a> <a href="https://www.linkedin.com/in/adin-darvish-929b76415/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/b-linkedin-dark.svg"><img alt="LinkedIn" src="./assets/b-linkedin-light.svg"></picture></a>
 
 </div>
