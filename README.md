@@ -449,12 +449,8 @@ Certified across the full Cisco stack (CCNA → CCNP → CCIE) and an **Apple Ce
 ![crDroid](https://img.shields.io/badge/crDroid-D32F2F?style=flat-square)
 ![Paranoid Android](https://img.shields.io/badge/Paranoid_Android-9C27B0?style=flat-square)
 ![ArrowOS](https://img.shields.io/badge/ArrowOS-2196F3?style=flat-square)
-![Magisk](https://img.shields.io/badge/Magisk-00AF9C?style=flat-square&logo=magisk&logoColor=white)
-![TWRP Recovery](https://img.shields.io/badge/TWRP_Recovery-01875F?style=flat-square)
 ![Samsung](https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=samsung&logoColor=white)
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
-![Windows Phone](https://img.shields.io/badge/Windows_Phone-0078D7?style=flat-square&logo=windows&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
 
 </details>
 
