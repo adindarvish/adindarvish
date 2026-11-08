@@ -1,7 +1,7 @@
 <div align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg"><img alt="Adin Darvish — Network · Cloud Architect" src="./assets/hero-light.svg" width="100%"></picture>
 <a href="https://adindarvish.ir"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/b-website-dark.svg"><img alt="Website" src="./assets/b-website-light.svg"></picture></a> <a href="https://t.me/AdinDarvish"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/b-telegram-dark.svg"><img alt="Telegram" src="./assets/b-telegram-light.svg"></picture></a> <a href="https://www.linkedin.com/in/adin-darvish-929b76415/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/b-linkedin-dark.svg"><img alt="LinkedIn" src="./assets/b-linkedin-light.svg"></picture></a> <a href="https://discord.com/users/adindarvish"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/b-discord-dark.svg"><img alt="Discord" src="./assets/b-discord-light.svg"></picture></a> <a href="https://instagram.com/adin.darvish"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/b-instagram-dark.svg"><img alt="Instagram" src="./assets/b-instagram-light.svg"></picture></a>
-<img src="https://komarev.com/ghpvc/?username=adindarvish&color=5B43D6&style=flat-square&label=PROFILE+VIEWS" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=adindarvish&color=B05A2C&style=flat-square&label=PROFILE+VIEWS" alt="Profile views">
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/vendors-dark.svg"><img alt="16 vendor platforms" src="./assets/vendors-light.svg" width="100%"></picture>
 </div>
 
@@ -24,17 +24,6 @@ Certified across the full Cisco stack (CCNA → CCNP → CCIE) and an **Apple Ce
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-certs-dark.svg"><img alt="Certifications" src="./assets/t-certs-light.svg"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/certs-dark.svg"><img alt="CCNA → CCNP → CCIE + Apple Certified Specialist" src="./assets/certs-light.svg" width="100%"></picture>
-
-<br>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-services-dark.svg"><img alt="Cloudtrix services" src="./assets/t-services-light.svg"></picture>
-
-<p align="center">
-<a href="https://search.cloudtrix.ir"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/svc-search-dark.svg"><img alt="Cloudtrix search" src="./assets/svc-search-light.svg" width="24%"></picture></a>
-<a href="https://tv.cloudtrix.ir/web/#/home"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/svc-tv-dark.svg"><img alt="Cloudtrix tv" src="./assets/svc-tv-light.svg" width="24%"></picture></a>
-<a href="https://drive.cloudtrix.ir"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/svc-drive-dark.svg"><img alt="Cloudtrix drive" src="./assets/svc-drive-light.svg" width="24%"></picture></a>
-<a href="https://panel.cloudtrix.ir"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/svc-panel-dark.svg"><img alt="Cloudtrix panel" src="./assets/svc-panel-light.svg" width="24%"></picture></a>
-</p>
 
 <br>
 
@@ -436,21 +425,6 @@ Certified across the full Cisco stack (CCNA → CCNP → CCIE) and an **Apple Ce
 ![Nintendo](https://img.shields.io/badge/Nintendo-E60012?style=flat-square&logo=nintendo&logoColor=white)
 ![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat-square&logo=playstation&logoColor=white)
 ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white)
-
-</details>
-
-<details>
-<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/t-android-dark.svg"><img alt="Android / ROMs & Mobile Ecosystem" src="./assets/t-android-light.svg"></picture></summary>
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![AOSP](https://img.shields.io/badge/AOSP-A4C639?style=flat-square&logo=android&logoColor=white)
-![LineageOS](https://img.shields.io/badge/LineageOS-167C80?style=flat-square&logo=lineageos&logoColor=white)
-![Pixel Experience](https://img.shields.io/badge/Pixel_Experience-4285F4?style=flat-square&logo=googlepixel&logoColor=white)
-![crDroid](https://img.shields.io/badge/crDroid-D32F2F?style=flat-square)
-![Paranoid Android](https://img.shields.io/badge/Paranoid_Android-9C27B0?style=flat-square)
-![ArrowOS](https://img.shields.io/badge/ArrowOS-2196F3?style=flat-square)
-![Samsung](https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=samsung&logoColor=white)
-![Xiaomi](https://img.shields.io/badge/Xiaomi-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
 
 </details>
 
